@@ -36,7 +36,7 @@ HTML can be validated using W3C Markup Validation Service to ensure it's error-f
 Best practices followed include using semantic HTML, proper indentation , and separating content (HTML).
 ### 3.  Improvement with more time 
 With more time , improvements could include adding responsive design, Javascript interactivity, or enhancing accessiblity.
-
-Student Name: TAONGA MUKASU
-Student: 2410853424
-GitHub Repository: https://github.com/taongamunkasu0-ai/Portfolio-Website
+# MY DETAILS
+* Student Name: TAONGA MUKASU
+* Student: 2410853424
+* GitHub Repository: https://github.com/taongamunkasu0-ai/Portfolio-Website
